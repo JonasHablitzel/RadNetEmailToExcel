@@ -1,5 +1,5 @@
 # RadNetEmailToExcel
-In diesem kleinen Projekt wurde eine automatisierte umwandlung von den Standard Meldeemails zu einer Excel, welche alle Informationen beinhaltet umgesetzt
+In diesem kleinen Projekt wurde eine automatisierte umwandlung von den Standard Meldemails zu einer Excel, welche alle Informationen beinhaltet umgesetzt
 ## Abhängigkeiten
 folgende python pakete werden benötigt
 ```bash
@@ -9,7 +9,7 @@ pip install emails
 pip install yaml
 ```
 ## Benutzung
-anpassen der Werte im config file und dann folgenden befehl
+anpassen der Werte im config file und dann folgenden befehl ausführen
 ```bash
 python main.py -c config.yml
 ```

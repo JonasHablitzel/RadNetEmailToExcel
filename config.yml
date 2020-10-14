@@ -1,0 +1,12 @@
+mail:
+  imap: xxxx   #Google your Email Provider and Imap to get the corresponding Imap Adresse
+  usrname: xxxxxx@xxxxx.de
+  passwort: passwort
+  folders: [inbox]
+  standardheader: Anmeldung RV Pfeil Magstadt 1905 e.V. für Bundesliga Cyclo-Cross - Magstadter Radcross am 10.11.2019 über meldungen.rad-net.de
+
+output:
+  path:  #When path is empty current directory is used
+  name: out.xlsx
+
+  
